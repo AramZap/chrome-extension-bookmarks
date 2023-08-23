@@ -1,0 +1,57 @@
+h3 {
+    color: #231709;
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 500px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #964B00;
+    margin-bottom: 8px;
+}
+
+button {
+    background: #964B00;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #964B00;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background: white;
+    color: #964B00;
+}
+
+#delete-first-btn {
+    background: white;
+    color: #964B00;
+}
+
+ul {
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 10px;
+}
+
+a {
+    color: #964B00;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: #231709;
+}
+
